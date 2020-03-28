@@ -1,4 +1,4 @@
 # Numeralmemo
-this is a memory game
-you can play this game here 
+<p>this is a memory game</p>
+<p>you can play this game here <p>
 https://keihannobakht.github.io/Numeralmemo/
