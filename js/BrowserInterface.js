@@ -77,7 +77,7 @@
 
       document.getElementById('memory--end-game-message').textContent = message;
       document.getElementById('memory--end-game-score').textContent =
-          'Score: ' + score + ' / 100';
+          'امتیاز شما: ' + score + ' / 100';
 
       document.getElementById("memory--end-game-modal").classList.toggle('show');
     }
@@ -88,13 +88,13 @@
     var message = "";
 
     if (score == 100) {
-      message = "Amazing job!"
+      message = "شگفت انگیزه!"
     }
     else if (score >= 70 ) {
-      message = "Great job!"
+      message = "خیلی خوب!"
     }
     else if (score >= 50) {
-      message = "Great job!"
+      message = "خوب!"
     }
     else {
       message = "بهتر از اینم میتونی";
