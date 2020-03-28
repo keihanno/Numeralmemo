@@ -1,8 +1,9 @@
 ﻿/**
- * Author: Maximo Mena
- * GitHub: mmenavas
- * Twitter: @menamaximo
- * Project: Memory Workout
+ * Author: Keihan Nobakht
+ * GitHub: keihannobakht
+ * facebook: keihannobakht
+ * Twitter: @keihan19506635
+ * Project:Numeral Memo
  * Description: The game interface
  */
 
