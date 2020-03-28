@@ -217,7 +217,7 @@ body {
   transform: rotateY(0deg);
   background-color: #e12d00;
   border-radius: 5%;
-  background-image: url(https://github.com/keihanno/memory-game/blob/master/card.svg);
+  background-image: url(images/cover.png);
   background-position:50% 50%;
   background-repeat: no-repeat;
   background-size: contain;
